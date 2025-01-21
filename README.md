@@ -1,7 +1,6 @@
 # Manipulação de Listas em Python
 
-Este repositório apresenta conceitos básicos de manipulação de listas em Python. É ideal para iniciantes que desejam entender como criar, acessar, modificar e ordenar listas.
-
+Este repositório apresenta exercícios de conceitos básicos de manipulação de listas em Python.
 ---
 
 ## Conteúdo
