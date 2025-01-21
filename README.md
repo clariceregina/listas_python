@@ -1,6 +1,7 @@
 # Manipulação de Listas em Python
 
 Este repositório apresenta exercícios de conceitos básicos de manipulação de listas em Python.
+
 ---
 
 ## Conteúdo
