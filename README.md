@@ -4,7 +4,7 @@ Este repositório apresenta exercícios de conceitos básicos de manipulação d
 
 ---
 
-## Conteúdo
+## Conteúdo Lista I
 
 ### 1. Criar e Acessar Elementos da Lista
 - Demonstra como criar uma lista com elementos fixos.
@@ -46,3 +46,10 @@ Este repositório apresenta exercícios de conceitos básicos de manipulação d
 ### 7. Ordenar Listas
 - Explica como ordenar uma lista de números em ordem crescente.
 - Ensina a realizar a ordenação em ordem decrescente.
+
+---
+
+## Conteúdo Lista II
+
+### 1. Criar e imprimir lista de livros
+- Adiciona novos livros a uma lista de livros e printa, ao final do programa todos.
